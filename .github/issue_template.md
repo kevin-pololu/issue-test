@@ -1,3 +1,1 @@
-<!--
-default issue template post on our forum
--->
+<!-- default issue template post on our forum -->
